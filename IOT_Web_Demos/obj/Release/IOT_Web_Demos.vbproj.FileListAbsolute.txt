@@ -1,0 +1,10 @@
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll.config
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.vbprojResolveAssemblyReference.cache
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.Resources.resources
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.vbproj.GenerateResource.Cache
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.dll
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.xml
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Release\IOT_Web_Demos.pdb

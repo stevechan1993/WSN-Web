@@ -1,0 +1,68 @@
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbproj.GenerateResource.Cache
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+E:\TryingDir3\IOT_Web_Demos\IOT_Web_Demos\bin\MySql.Data.dll
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\ResolveAssemblyReference.cache
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\GenerateResource.read.1.tlog
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\GenerateResource.write.1.tlog
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+D:\《物联网开发与应用》实验指导书 -实验 05\物联网应用程序（BS结构）\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\ResolveAssemblyReference.cache
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\GenerateResource.read.1.tlog
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\GenerateResource.write.1.tlog
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+F:\物联网开发与应用\实验 06\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\ResolveAssemblyReference.cache
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\GenerateResource.read.1.tlog
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\GenerateResource.write.1.tlog
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+F:\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbprojResolveAssemblyReference.cache
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbproj.GenerateResource.Cache
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+C:\Users\SteveChan\Desktop\物联网工程实训\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll.config
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbproj.GenerateResource.Cache
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
+G:\毕业设计\物联网应用程序（BS结构） Demo\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbprojResolveAssemblyReference.cache
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\bin\IOT_Web_Demos.dll.config
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\bin\IOT_Web_Demos.dll
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\bin\IOT_Web_Demos.pdb
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\bin\IOT_Web_Demos.xml
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbprojResolveAssemblyReference.cache
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.Resources.resources
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.vbproj.GenerateResource.Cache
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.dll
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.xml
+G:\Graduation Project\IOT_Web\IOT_Web_Demos\obj\Debug\IOT_Web_Demos.pdb
